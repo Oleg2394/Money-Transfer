@@ -24,9 +24,10 @@
 
 ## Общие рекомендации
 Перевести переменные:
-balance
-transfer
-total
+* balance
+* transfer
+* total
+
 К типу переменной long
 
 [Скриншот](https://ibb.co/bJ4mjBq)
